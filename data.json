@@ -1,0 +1,420 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "title": "Black Panther: Wakanda Forever",
+            "type": "movie",
+            "category": "movie",
+            "pictures": {
+                "small": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+                "large": "https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/8sMmAmN2x7mBiNKEX2o0aOTozEB.jpg"
+            },
+            "overview": "Queen Ramonda, Shuri, M’Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T’Challa’s death. As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
+            "release_year": "2022",
+            "casts": [
+                {
+                    "name": "Ryan Coogler",
+                    "role": "Director"
+                },
+                {
+                    "name": "Letitia Wright",
+                    "role": "Actor"
+                },
+                {
+                    "name": "Lupita Nyong'o",
+                    "role": "Actor"
+                },
+                {
+                    "name": "Tenoch Huerta Mejía",
+                    "role": "Actor"
+                },
+                {
+                    "name": "Stan Lee",
+                    "role": "Writer"
+                },
+                {
+                    "name": "Jack Kirby",
+                    "role": "Writer"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Tulsa King",
+            "type": "series",
+            "category": "series",
+            "pictures": {
+                "small": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/qJ579ciJ2vZxVVBJUbz8UwvIGkh.jpg",
+                "large": "https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg"
+            },
+            "overview": "Just after he is released from prison after 25 years, New York mafia capo Dwight “The General” Manfredi is unceremoniously exiled by his boss to set up shop in Tulsa, Okla. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a “crew” from a group of unlikely characters, to help him establish a new criminal empire in a place that to him might as well be another planet.",
+            "release_year": "2022",
+            "casts": [
+                {
+                    "name": "Taylor Sheridan",
+                    "role": "Director"
+                },
+                {
+                    "name": "Sylvester Stallone",
+                    "role": "Actor"
+                },
+                {
+                    "name": "Martin Starr",
+                    "role": "Actor"
+                },
+                {
+                    "name": "Andrea Savage",
+                    "role": "Actor"
+                },
+                {
+                    "name": "Terence Winter",
+                    "role": "Writer"
+                },
+                {
+                    "name": "Taylor Sheridan",
+                    "role": "Writer"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Yellowstone",
+            "type": "series",
+            "category": "series",
+            "pictures": {
+                "small": "https://www.themoviedb.org/t/p/w220_and_h330_face/iqWCUwLcjkVgtpsDLs8xx8kscg6.jpg",
+                "large": "https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/xHkOKPUe3ioXyPIe5odyL6o6cp4.jpg"
+            },
+            "overview": "Follow the violent world of the Dutton family, who controls the largest contiguous ranch in the United States. Led by their patriarch John Dutton, the family defends their property against constant attack by land developers, an Indian reservation, and America’s first National Park.",
+            "release_year": "2018",
+            "casts": [
+                {
+                    "name": "John Linson",
+                    "role": "Director"
+                },
+                {
+                    "name": "Kevin Costner",
+                    "role": "Actor"
+                },
+                {
+                    "name": "Kelly Reilly",
+                    "role": "Actor"
+                },
+                {
+                    "name": "Luke Grimes",
+                    "role": "Actor"
+                },
+                {
+                    "name": "Taylor Sheridan",
+                    "role": "Writer"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Fullmetal Alchemist: The Final Alchemy",
+            "type": "upcoming",
+            "category": "movie",
+            "pictures": {
+                "small": "https://www.themoviedb.org/t/p/w220_and_h330_face/AeyiuQUUs78bPkz18FY3AzNFF8b.jpg",
+                "large": "https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/5hoS3nEkGGXUfmnu39yw1k52JX5.jpg"
+            },
+            "overview": "The Elric brothers’ long and winding journey comes to a close in this epic finale, where they must face off against an unworldly, nationwide threat.",
+            "release_year": "2022",
+            "casts": [
+                {
+                    "name": "Fumihiko Sori",
+                    "role": "Director"
+                },
+                {
+                    "name": "Ryosuke Yamada",
+                    "role": "Actor"
+                },
+                {
+                    "name": "Atomu Mizuishi",
+                    "role": "Actor"
+                },
+                {
+                    "name": "Tsubasa Honda",
+                    "role": "Actor"
+                },
+                {
+                    "name": "Takeshi Miyamoto",
+                    "role": "Writer"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Wild Is the Wind",
+            "type": "movie",
+            "category": "movie",
+            "pictures": {
+                "small": "https://www.themoviedb.org/t/p/w220_and_h330_face/rITxQBtnMpneZf8QzH1dqONQocx.jpg",
+                "large": "https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/akYTfFvYkFGJReFxXM841NidlAa.jpg"
+            },
+            "overview": "When two corrupt police officers investigate the brutal murder of a young girl, tensions come to a head in their small, racially-segregated town.",
+            "release_year": "2022",
+            "casts": [
+                {
+                    "name": "Fabian Medea",
+                    "role": "Director"
+                },
+                {
+                    "name": "Mothusi Magano",
+                    "role": "Actor"
+                },
+                {
+                    "name": "Chris Chameleon",
+                    "role": "Actor"
+                },
+                {
+                    "name": "Izel Bezuidenhout",
+                    "role": "Actor"
+                },
+                {
+                    "name": "Fabian Medea",
+                    "role": "Writer"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "The Walking Dead",
+            "type": "series",
+            "category": "series",
+            "pictures": {
+                "small": "https://www.themoviedb.org/t/p/w220_and_h330_face/xf9wuDcqlUPWABZNeDKPbZUjWx0.jpg",
+                "large": "https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/zaulpwl355dlKkvtAiSBE5LaoWA.jpg"
+            },
+            "overview": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.",
+            "release_year": "2010",
+            "casts": [
+                {
+                    "name": "Frank Darabont",
+                    "role": "Director"
+                },
+                {
+                    "name": "Norman Reedus",
+                    "role": "Actor"
+                },
+                {
+                    "name": "Melissa McBride",
+                    "role": "Actor"
+                },
+                {
+                    "name": "Lauren Cohan",
+                    "role": "Actor"
+                },
+                {
+                    "name": "Frank Darabont",
+                    "role": "Writer"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "title": "The Peripheral",
+            "type": "series",
+            "category": "series",
+            "pictures": {
+                "small": "https://www.themoviedb.org/t/p/w220_and_h330_face/ccBe5BVeibdBEQU7l6P6BubajWV.jpg",
+                "large": "https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/hIZFG7MK4leU4axRFKJWqrjhmxZ.jpg"
+            },
+            "overview": "Stuck in a small Appalachian town, a young woman’s only escape from the daily grind is playing advanced video games. She is such a good player that a company sends her a new video game system to test…but it has a surprise in store. It unlocks all of her dreams of finding a purpose, romance, and glamour in what seems like a game…but it also puts her and her family in real danger.",
+            "release_year": "2022",
+            "casts": [
+                {
+                    "name": "Scott B. Smith",
+                    "role": "Director"
+                },
+                {
+                    "name": "Chloë Grace Moretz",
+                    "role": "Actor"
+                },
+                {
+                    "name": "Gary Carr",
+                    "role": "Actor"
+                },
+                {
+                    "name": "Jack Reynor",
+                    "role": "Actor"
+                },
+                {
+                    "name": "Scott B. Smith",
+                    "role": "Writer"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Amsterdam",
+            "type": "movie",
+            "category": "movie",
+            "pictures": {
+                "small": "https://www.themoviedb.org/t/p/w220_and_h330_face/chCrPG0LJeilfJwsWPAfmWiJI2T.jpg",
+                "large": "https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/79PcXPpbDWql74h8Y00mNwbYMbS.jpg"
+            },
+            "overview": "In the 1930s, three friends—a doctor, a nurse, and an attorney—witness a murder, become suspects themselves and uncover one of the most outrageous plots in North American history.",
+            "release_year": "2022",
+            "casts": [
+                {
+                    "name": "David O. Russell",
+                    "role": "Director"
+                },
+                {
+                    "name": "Christian Bale",
+                    "role": "Actor"
+                },
+                {
+                    "name": "Margot Robbie",
+                    "role": "Actor"
+                },
+                {
+                    "name": "John David Washington",
+                    "role": "Actor"
+                },
+                {
+                    "name": "David O. Russell",
+                    "role": "Writer"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "title": "Top Gun: Maverick",
+            "type": "movie",
+            "category": "movie",
+            "pictures": {
+                "small": "https://www.themoviedb.org/t/p/w220_and_h330_face/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+                "large": "https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg"
+            },
+            "overview": "After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
+            "release_year": "2022",
+            "casts": [
+                {
+                    "name": "Joseph Kosinski",
+                    "role": "Director"
+                },
+                {
+                    "name": "Tom Cruise",
+                    "role": "Actor"
+                },
+                {
+                    "name": "Miles Teller",
+                    "role": "Actor"
+                },
+                {
+                    "name": "Jennifer Connelly",
+                    "role": "Actor"
+                },
+                {
+                    "name": "Peter Craig",
+                    "role": "Writer"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "title": "Poker Face",
+            "type": "upcoming",
+            "category": "movie",
+            "pictures": {
+                "small": "https://www.themoviedb.org/t/p/w220_and_h330_face/8a2MIBV9LuPYbF5rOEAohjjMz9P.jpg",
+                "large": "https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/qzbsjUzN88CiSHemJXhKvHDS04B.jpg"
+            },
+            "overview": "A yearly high-stakes poker game between childhood friends turns into chaos when the tech billionaire host unveils an elaborate scheme to seek revenge for the ways they've betrayed him over the years. But as his plans unfold, a group of thieves hatch plans of their own breaking into the mansion thinking it is empty. The old friends quickly band together and the years of playing the game help them win their way through a night of terror.",
+            "release_year": "2022",
+            "casts": [
+                {
+                    "name": "Russell Crowe",
+                    "role": "Director"
+                },
+                {
+                    "name": "Russell Crowe",
+                    "role": "Actor"
+                },
+                {
+                    "name": "Liam Hemsworth",
+                    "role": "Actor"
+                },
+                {
+                    "name": "Brooke Satchwell",
+                    "role": "Actor"
+                },
+                {
+                    "name": "Stephen M. Coates",
+                    "role": "Writer"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "title": "Paradise City",
+            "type": "upcoming",
+            "category": "movie",
+            "pictures": {
+                "small": "https://www.themoviedb.org/t/p/w220_and_h330_face/cpv6n4IK26IbSlSXH1v3JkCAjEV.jpg",
+                "large": "https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/au4HUSWDRadIcl9CqySlw1kJMfo.jpg"
+            },
+            "overview": "Renegade bounty hunter Ryan Swan must carve his way through the Hawaiian crime world to wreak vengeance on the kingpin who murdered his father.",
+            "release_year": "2022",
+            "casts": [
+                {
+                    "name": "Chuck Russell",
+                    "role": "Director"
+                },
+                {
+                    "name": "John Travolta",
+                    "role": "Actor"
+                },
+                {
+                    "name": "Bruce Willis",
+                    "role": "Actor"
+                },
+                {
+                    "name": "Praya Lundberg",
+                    "role": "Actor"
+                },
+                {
+                    "name": "Corey Large",
+                    "role": "Writer"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "title": "House of the Dragon",
+            "type": "upcoming",
+            "category": "series",
+            "pictures": {
+                "small": "https://www.themoviedb.org/t/p/w220_and_h330_face/1X4h40fcB4WWUmIBK0auT4zRBAV.jpg",
+                "large": "https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg"
+            },
+            "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+            "release_year": "2022",
+            "casts": [
+                {
+                    "name": "George R. R. Martin",
+                    "role": "Director"
+                },
+                {
+                    "name": "Paddy Considine",
+                    "role": "Actor"
+                },
+                {
+                    "name": "Matt Smith",
+                    "role": "Actor"
+                },
+                {
+                    "name": "Emma D'Arcy",
+                    "role": "Actor"
+                },
+                {
+                    "name": "Ryan Condal",
+                    "role": "Writer"
+                }
+            ]
+        }
+    ]
+}

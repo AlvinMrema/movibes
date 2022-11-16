@@ -1,0 +1,80 @@
+<template>
+    <div class="container-fluid ps-md-0">
+        <div class="row g-0">
+            <div class="d-none d-md-flex col-md-4 col-lg-6 bg-image"></div>
+            <div class="col-md-8 col-lg-6">
+                <div class="login d-flex align-items-center py-5">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-9 col-lg-8 mx-auto">
+                                <h3 class="login-heading mb-4">Create an Account</h3>
+
+                                <!-- Sign Up Form -->
+                                <form>
+                                    <div class="form-floating mb-3">
+                                        <input type="text" class="form-control" id="floatingName"
+                                            placeholder="Alvin">
+                                        <label for="floatingName">Name</label>
+                                    </div>
+                                    <div class="form-floating mb-3">
+                                        <input type="email" class="form-control" id="floatingInput"
+                                            placeholder="name@example.com">
+                                        <label for="floatingInput">Email address</label>
+                                    </div>
+                                    <div class="form-floating mb-5">
+                                        <input type="password" class="form-control" id="floatingPassword"
+                                            placeholder="Password">
+                                        <label for="floatingPassword">Password</label>
+                                    </div>
+
+                                    <div class="d-grid mb-2">
+                                        <RouterLink class="btn btn-lg btn-primary btn-login text-uppercase fw-bold mb-2"
+                                            to="/">Sign in</RouterLink>
+                                    </div>
+
+                                    <div class="d-grid mb-3">
+                                        <RouterLink class="btn btn-dark btn-login text-uppercase fw-bold mb-2" to="/">
+                                            <i class="bi bi-google"></i> Sign in with Google
+                                        </RouterLink>
+                                    </div>
+
+                                    <div class="d-grid text-center">
+                                        <p>
+                                            Already have an Account! <RouterLink class="small" to="/auth">Login</RouterLink>
+                                        </p>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</template>
+
+<script setup>
+import { RouterLink } from 'vue-router'
+</script>
+
+<style>
+.login {
+  min-height: 100vh;
+}
+
+.bg-image {
+  background-image: url('https://source.unsplash.com/WEQbe2jBg40/600x1200');
+  background-size: cover;
+  background-position: center;
+}
+
+.login-heading {
+  font-weight: 300;
+}
+
+.btn-login {
+  font-size: 0.9rem;
+  letter-spacing: 0.05rem;
+  padding: 0.75rem 1rem;
+}
+</style>
